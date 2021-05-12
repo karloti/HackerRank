@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BiggerIsGreater/BiggerIsGreater.iml" filepath="$PROJECT_DIR$/BiggerIsGreater/BiggerIsGreater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KaprekarNumbers/KaprekarNumbers.iml" filepath="$PROJECT_DIR$/KaprekarNumbers/KaprekarNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSortPartiotion/QuickSortPartiotion.iml" filepath="$PROJECT_DIR$/QuickSortPartiotion/QuickSortPartiotion.iml" />
+    </modules>
+  </component>
+</project>
